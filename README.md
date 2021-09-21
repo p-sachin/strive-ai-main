@@ -1,2 +1,2 @@
-# strive-ai-server
+# strive-ai-main
 Repository for Strive Contents
